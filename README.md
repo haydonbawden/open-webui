@@ -172,6 +172,8 @@ We offer various installation alternatives, including non-Docker native installa
 
 Look at the [Local Development Guide](https://docs.openwebui.com/getting-started/advanced-topics/development) for instructions on setting up a local development environment.
 
+For a single-file Windows executable that bundles the backend, frontend, and dependencies, see [Windows standalone executable](docs/windows-executable.md).
+
 ### Troubleshooting
 
 Encountering connection issues? Our [Open WebUI Documentation](https://docs.openwebui.com/troubleshooting/) has got you covered. For further assistance and to join our vibrant community, visit the [Open WebUI Discord](https://discord.gg/5rJgQTnV4s).
